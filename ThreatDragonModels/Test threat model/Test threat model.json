@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test threat model",
+    "description": "Testing Threat Dragon"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "My test diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
